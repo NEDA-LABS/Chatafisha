@@ -8,7 +8,7 @@ Chatafisha is an open platform regenerate disadvantaged communities through plas
 | Milestone 1                                    | Links         | 
 | -----------------------------------------------|:-------------:|
 | - Complete first community project             | [Community Project Content](https://drive.google.com/folderview?id=1pczTv3VYg5Bv87sYNKbizqCtXr7jYkyr) | 
-| - Develop UI/UX for Chatafisha                 | [Chatafisha](https://chatafisha.com)     |   
+| - Develop UI/UX for Chatafisha                 | [Chatafisha.com](https://chatafisha.com)     |   
 | -'Rangi Chanya Initiative' quarterly event.    |  [Rangi Chanya](https://drive.google.com/file/d/1neOJ2ZazFoZUJxh70usVXNABq7JOQico/view?usp=drivesdk)             |   
 | - Patner with 5 local talent and empower them |  [Local talent](https://chatafisha.notion.site/Partner-with-5-local-talent-empower-them-8e7e37f6ca234d8197ac7f9bef84038d)       |
 | - Integrate first QR as experiment             |  [QR](https://drive.google.com/folderview?id=1YNOOFwY64DJdfin3gZV5wO4OH_DsUlr8)             |    
