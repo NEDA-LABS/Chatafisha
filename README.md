@@ -1,6 +1,6 @@
 # Chatafisha Project
 ### Brief description
-Chatafisha is an open platform regenerate disadvantaged communities through plastic regeneration to eco bricks to rebuild communities and establish a DAO around it.
+Chatafisha is an open platform regenerating disadvantaged communities through plastic regeneration to eco bricks to rebuild communities and establish a DAO around it.
 
 
 ### Table of Milestones
