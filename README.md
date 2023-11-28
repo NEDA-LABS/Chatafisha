@@ -16,7 +16,7 @@ At Chatafisha, we are building a blockchain based infrastructure (dApp) Our dece
 
 Users in the form of waste pickers, collection points and recyclers can log daily information such as the type, amount, and location of offsets. On the other hand, individuals or organizations looking to offset their carbon footprint can be able to do so transparently through Unique IDs and earn impact certificates. 
 <p align="center">
-<!--   <img src="your_relative_path_here" width="350" title="hover text"> -->
+  <img src="https://github.com/chatafisha/Chatafisha/blob/main/images/chata1.png" width="350" title="hover text">
 </p>
 
 
