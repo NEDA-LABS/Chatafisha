@@ -19,36 +19,79 @@ Users in the form of waste pickers, collection points and recyclers can log dail
   <img src="https://github.com/chatafisha/Chatafisha/blob/main/images/chata1.png" width="600" title="Chatafisha dapp">
 </p>
 
+We offer a transparent method to calculate and offset carbon footprints through waste pickers, integrating a gamification aspect with Carbon-backed NFTs containing Metadata of the offsets such as name, location, type of waste and amount. We are also gamifying the process by also introducing a leaderboard game where weekly winners receive various incentives for their participation.
 
-## What is CHATAFISHA?
+Our dApp also features sub-wallets for Financial Transactions and Rewards, ensuring secure and transparent financial transactions between waste pickers, waste collection points, and future buyers of eco-products. With Chatafisha, waste pickers, waste collection points, recyclers can monitor their daily offsets, tracking the amount of plastic waste collected and the environmental impact of their recycling activities. 
 
-CHATAFISHA is a decentralized coordination engine for the empowerment of communities in Africa through the use of blockchain technology. 
+To promote financial inclusion, we've introduced a points system for waste pickers. This innovative approach will enable micro-lending in the long run directly to their sub-wallets, providing financial support to waste pickers who are typically unbanked and lack credit.
 
-The platform creates decentralized autonomous organizations (DAOs) that facilitate the development of human capital and the re-definition of public spaces, with the goal of fostering social and economic growth in Africa.
 
- Through the use of DAOs, CHATAFISHA aims to empower communities to self-govern and drive their own development, leading to a more equitable and prosperous society.
+## dApp Userflow.
 
-## What is ChataDAO?
+For individuals and organizations looking to offset their carbon footprint they can connect their wallet, calculate and select packages to offset for or add the vefified offsets from pickers to their cart and cash out. In the case of social impact projects, they can review uploaded proposals with indicated milestones and deliverables and opt to fund.
 
-A CHATAFISHA DAO (Decentralized Autonomous Organization) is a type of organization that exists on the blockchain and is governed democratically by its members. CHATAFISHA creates DAOs as a way to empower communities in Africa and facilitate the development of human capital and the re-definition of public spaces. DAOs allow communities to self-govern and make decisions about how the organization is run, enabling them to drive their own development and bring about positive change in their region. Through the use of DAOs, CHATAFISHA aims to foster social and economic growth in Africa.
+Once they fund the projects or select their package, e.g 2 Tonnes monthly, then they will be minted the carbon backed NFT as an impact certificate which contains the metadata as mentioned above.
 
-## What is our Mission and Vision?
+<p align="center">
+  <img src="https://github.com/chatafisha/Chatafisha/blob/main/images/c4.png" width="600" title="Chatafisha dapp">
+</p>
 
-**Mission:**
-Our mission at CHATAFISHA is to empower communities in Africa through the use of blockchain technology, by creating decentralized autonomous organizations (DAOs) that facilitate the development of human capital and the re-definition of public spaces.
+## Chatafisha Solution Development and Implementation Roadmap
 
-**Vision:**
-Our vision at CHATAFISHA is to become the leading platform for community building and innovation in Africa, using blockchain technology to foster social and economic growth in the region. We envision a future where CHATAFISHA-powered DAOs enable communities to self-govern and drive their own development, leading to a more equitable and prosperous society.
+**Phase 1: Foundation and Platform Development**
 
-## **Why should I  join CHATAFISHA?**
+Conduct comprehensive market research to understand waste management challenges and opportunities.
+Identify key stakeholders, including waste pickers, recycling centers, manufacturers, and potential users.
+Define the technical requirements for the blockchain-based platform and eco-product marketplace.
 
-There are many reasons for everyone to join CHATAFISHA. We are:
 
-- **Radically purposeful:** Doing what is right is at the core. We speak and act with candid care and purpose. Feedback is sharp, yet thoughtful.
-- **Open:** We build in the open and with others. CHATAFISHA productively stewards key DAO ecosystem primitives while leveraging existing building blocks.
-- **Collaborative:** We do everything as a team. This practically means being on calls frequently, and communicating across distances. We are shared owners who are responsible to each other.
-- **Adaptive:** We are action-oriented, experimentative, and creator-minded. Web3 changes fast, we should too.
-- **Accommodative:** We are willing to help, we forgive mistakes, and we always welcome others. Good collaborators ask without assuming and seek understanding without judgment.
+**Phase 2: Platform Design and Prototyping**
+
+Develop wireframes and prototypes of the Chatafisha dApp platform, focusing on user experience and functionality.
+Engage with waste pickers' communities for feedback on the design and user interface.
+Begin development of the blockchain infrastructure and backend systems.
+
+
+**Phase 3: Pilot and Validation**
+
+Pilot communities for the initial rollout of the Chatafisha platform.
+Collaborate with local partners to facilitate waste collection, recycling, and eco-product creation.
+Develop educational materials and workshops to engage waste pickers and users.
+Launch the Chatafisha platform in pilot communities, integrating compensation mechanisms and blockchain transparency.
+Monitor user engagement, collect feedback, and identify areas for improvement.
+
+
+**Phase 4: Growth and Scaling**
+
+Expand the platform to additional communities and regions with high waste management challenges.
+Collaborate with local governments and NGOs to raise awareness and increase participation.
+Launch marketing campaigns to attract waste pickers, recycling centers, and eco-conscious consumers.
+
+<p align="center">
+  <img src="https://github.com/chatafisha/Chatafisha/blob/main/images/c5.png" width="600" title="Chatafisha dapp">
+</p>
+
+## Impact
+
+Chatafisha's contribution to creating positive change is multi-faceted and extends to the planet, society, and the economy, promoting fairness, transparency, and sustainability:
+
+1. Environmental Impact:
+
+Plastic Waste Reduction: By incentivizing waste pickers to collect plastic waste, Chatafisha reduces plastic pollution in landfills, oceans, and ecosystems, contributing to a cleaner environment and healthier ecosystems.
+Circular Economy Promotion: Chatafisha's platform transforms plastic waste into eco-products, promoting a circular economy where resources are conserved, and the life cycle of materials is extended, reducing the strain on natural resources.
+2. Social Empowerment:
+
+Economic Empowerment: Through transparent compensation, Chatafisha empowers waste pickers with steady and fair income, elevating their socio-economic status and contributing to poverty reduction.
+Recognition and Dignity: Our platform recognizes the critical role of waste pickers and provides them with a sense of dignity and respect within their communities, challenging societal stigmatization.
+3. Transparency and Accountability:
+
+Trust-Building: Chatafisha's blockchain-based transparency builds trust among stakeholders, ensuring accurate record-keeping and accountability at every stage of waste management, from collection to recycling to product creation.
+Inclusive Participation: Transparent income tracking empowers waste pickers and marginalized communities by providing verifiable data on contributions, fostering inclusivity and fairness.
+4. Stable and Equitable Economy:
+
+Income Distribution: Chatafisha's fair compensation mechanisms create stable income streams for waste pickers, promoting financial stability and reducing income inequality within waste-picking communities, most importantly financially including them as most do not have bank accounts.
+Economic Development: The income generated by waste pickers through Chatafisha's platform contributes to local economic development, improving access to education, healthcare, and other essential services.
+
 
 <!--
 **chatafisha/Chatafisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
