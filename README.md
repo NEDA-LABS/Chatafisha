@@ -26,6 +26,10 @@ Our dApp also features sub-wallets for Financial Transactions and Rewards, ensur
 To promote financial inclusion, we've introduced a points system for waste pickers. This innovative approach will enable micro-lending in the long run directly to their sub-wallets, providing financial support to waste pickers who are typically unbanked and lack credit.
 
 
+**Chatafisha dapp demo video**
+[![Watch the video](https://img.youtube.com/vi/xphqfCwl-Ns/maxresdefault.jpg)](https://www.youtube.com/watch?v=xphqfCwl-Ns)
+
+
 ## dApp Userflow.
 
 For individuals and organizations looking to offset their carbon footprint they can connect their wallet, calculate and select packages to offset for or add the vefified offsets from pickers to their cart and cash out. In the case of social impact projects, they can review uploaded proposals with indicated milestones and deliverables and opt to fund.
