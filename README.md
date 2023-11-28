@@ -33,7 +33,7 @@ To promote financial inclusion, we've introduced a points system for waste picke
 
 
 
-h?
+
 ## dApp Userflow.
 
 For individuals and organizations looking to offset their carbon footprint they can connect their wallet, calculate and select packages to offset for or add the vefified offsets from pickers to their cart and cash out. In the case of social impact projects, they can review uploaded proposals with indicated milestones and deliverables and opt to fund.
