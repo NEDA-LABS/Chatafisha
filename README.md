@@ -29,7 +29,7 @@ To promote financial inclusion, we've introduced a points system for waste picke
 **Chatafisha dapp demo video**
 
 
-[![Watch the video](https://img.youtu.be/vi/xphqfCwl-Ns)](https://www.youtube.com/watch?v=xphqfCwl-Ns)
+[![Watch the video](https://img.youtube.com/vi/xphqfCwl-Ns)](https://www.youtube.com/watch?v=xphqfCwl-Ns)
 
 
 ## dApp Userflow.
