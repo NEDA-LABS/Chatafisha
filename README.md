@@ -29,14 +29,11 @@ To promote financial inclusion, we've introduced a points system for waste picke
 **Chatafisha dapp demo video**
 
 
-Title: Dapp demo
-URL: [YouTube.com/](https://www.youtube.com/watch?v=xphqfCwl-Ns)
-Description: product demo
-Product: e.x. Projects
-Versions: e.x. fpt, GHES > 3.2
-Date added: YYYY-MM-DD
-Location: /where/in/docs
-Transcript: ./content/video-transcripts/filename
+[![Watch the video](https://img.youtube.com/vi/xphqfCwl-Ns/hqdefault.jpg)](https://www.youtube.com/embed/xphqfCwl-Ns)
+
+[<img src="https://img.youtube.com/vi/xphqfCwl-Ns/hqdefault.jpg" width="400" height="300"
+/>](https://www.youtube.com/embed/xphqfCwl-Ns)
+
 
 
 ## dApp Userflow.
