@@ -31,8 +31,6 @@ To promote financial inclusion, we've introduced a points system for waste picke
 
 [![Watch the video](https://img.youtube.com/vi/xphqfCwl-Ns/hqdefault.jpg)](https://www.youtube.com/embed/xphqfCwl-Ns)
 
-[<img src="https://img.youtube.com/vi/xphqfCwl-Ns/hqdefault.jpg" width="400" height="300"
-/>](https://www.youtube.com/embed/xphqfCwl-Ns)
 
 
 
