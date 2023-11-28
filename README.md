@@ -79,14 +79,20 @@ Chatafisha's contribution to creating positive change is multi-faceted and exten
 
 Plastic Waste Reduction: By incentivizing waste pickers to collect plastic waste, Chatafisha reduces plastic pollution in landfills, oceans, and ecosystems, contributing to a cleaner environment and healthier ecosystems.
 Circular Economy Promotion: Chatafisha's platform transforms plastic waste into eco-products, promoting a circular economy where resources are conserved, and the life cycle of materials is extended, reducing the strain on natural resources.
+
+
 2. Social Empowerment:
 
 Economic Empowerment: Through transparent compensation, Chatafisha empowers waste pickers with steady and fair income, elevating their socio-economic status and contributing to poverty reduction.
 Recognition and Dignity: Our platform recognizes the critical role of waste pickers and provides them with a sense of dignity and respect within their communities, challenging societal stigmatization.
+
+
 3. Transparency and Accountability:
 
 Trust-Building: Chatafisha's blockchain-based transparency builds trust among stakeholders, ensuring accurate record-keeping and accountability at every stage of waste management, from collection to recycling to product creation.
 Inclusive Participation: Transparent income tracking empowers waste pickers and marginalized communities by providing verifiable data on contributions, fostering inclusivity and fairness.
+
+
 4. Stable and Equitable Economy:
 
 Income Distribution: Chatafisha's fair compensation mechanisms create stable income streams for waste pickers, promoting financial stability and reducing income inequality within waste-picking communities, most importantly financially including them as most do not have bank accounts.
