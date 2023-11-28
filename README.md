@@ -1,19 +1,24 @@
 # Chatafisha Project
 ### Brief description
-Chatafisha is an open platform regenerating disadvantaged communities through plastic regeneration to eco bricks to rebuild communities and establish a DAO around it.
+#### Problem statement
+
+Chatafisha comes from two Swahili words, Chata meaning mark and Safisha meaning cleaning. Climate change and Carbon emissions are increasingly worrying factors in the world we live in today yet less attention is paid to. In Africa, we have a serious waste management issue and the exploitative nature of the industry. 
+
+ At the heart of this challenge lies the marginalized waste pickers, who struggle with inconsistent income, lack of recognition, and limited access to resources. These frontline workers play a vital role in waste collection but remain excluded from the benefits of the value chain. Conventional waste management systems lack transparency, leading to inefficiencies, mistrust, and unsustainable practices. Urgent intervention is needed to empower waste pickers, create a circular economy, and mitigate plastic pollution, while fostering socio-economic development in underserved communities. Chatafisha aims to revolutionize waste management by leveraging blockchain technology to ensure equitable compensation, transparency, and the transformation of plastic waste into eco-products, paving the way for a cleaner planet, empowered waste pickers, and thriving communities.  For instance, The average waste picker in Tanzania offsets around 50kg of plastic waste daily for a mere 0.1$ per kg. This is due to the centralized nature of the industry which allows for exploitation of the regenerators that actually do the work.
+
+Furthermore, due to the increasing carbon footprints for organizations and industries, there is lack of proper infrastructures in place to keep track and reduce their carbon footprints, leading to even more emissions.
 
 
-### Table of Milestones
+          
+### Solution Overview
 
-| Milestone 1                                    | Links         | 
-| -----------------------------------------------|:-------------:|
-| - Complete first community project             | [Community Project Content](https://drive.google.com/folderview?id=1pczTv3VYg5Bv87sYNKbizqCtXr7jYkyr) | 
-| - Develop UI/UX for Chatafisha                 | [Chatafisha.com](https://chatafisha.com)     |   
-| -'Rangi Chanya Initiative' quarterly event.    |  [Rangi Chanya](https://drive.google.com/file/d/1neOJ2ZazFoZUJxh70usVXNABq7JOQico/view?usp=drivesdk)             |   
-| - Patner with 5 local talent and empower them |  [Local talent](https://chatafisha.notion.site/Partner-with-5-local-talent-empower-them-8e7e37f6ca234d8197ac7f9bef84038d)       |
-| - Integrate first QR as experiment             |  [QR](https://drive.google.com/folderview?id=1YNOOFwY64DJdfin3gZV5wO4OH_DsUlr8)             |    
-|- strategic patnership with local and municipal government |[local govt approval](https://drive.google.com/file/d/1YDdyBRrATqJmitkjOdGroB4Ciyu9qVQv/view?usp=drivesdk)        |
-|- prepare marketing material and content| [Marketing Content](https://drive.google.com/folderview?id=1RCFUx68HCQPR2F3oxG0mVRqitDqRBShH)                  |
+At Chatafisha, we are building a blockchain based infrastructure (dApp) Our decentralized application (dApp) provides a comprehensive solution for tracking and offsetting carbon footprints. 
+
+Users in the form of waste pickers, collection points and recyclers can log daily information such as the type, amount, and location of offsets. On the other hand, individuals or organizations looking to offset their carbon footprint can be able to do so transparently through Unique IDs and earn impact certificates. 
+<p align="center">
+<!--   <img src="your_relative_path_here" width="350" title="hover text"> -->
+</p>
+
 
 ## What is CHATAFISHA?
 
