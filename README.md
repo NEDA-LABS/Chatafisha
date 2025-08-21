@@ -1,13 +1,13 @@
 ## *Chatafisha* is a blockchain-based waste management platform that democratizes access to the $2 billion carbon credit market through innovative technology. Our mission is "Hifadhi mazingira, kuokoa maisha" (Preserve the environment, save lives).
 
 ### *Core Business Model:*
-⁠##Tokenization:
+⁠##Tokenization##:
 Convert waste collection efforts into XCT (XRP Carbon Token) credits
-⁠##Hybrid Blockchain*:
+⁠##Hybrid Blockchain##:
 Hyperledger Fabric + XRP Ledger + Interledger Protocol
-⁠##Mobile-First*:
+⁠##Mobile-First##:
 Flutter app with Swahili interface for waste pickers
-⁠##B2B Marketplace*: 
+⁠##B2B Marketplace##: 
 Next.js web portal for corporate carbon credit buyers
 
 ### *Target Impact:*
